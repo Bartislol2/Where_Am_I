@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AM_projekt</string>
+    <string name="title">Where Am I?</string>
+    <string name="new_post">Let people know your location!</string>
+    <string name="settings">Settings</string>
+    <string name="location">Location</string>
+    <string name="post_button">Post</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="speed">Speed:</string>
+    <string name="address">Address:</string>
+    <string name="location_updates">Location updates</string>
+    <string name="updates">Updates:</string>
+    <string name="gps_wifi">Save Power/GPS(more accurate)</string>
+    <string name="sensor">Sensor:</string>
+    <string name="user_posts">Your posts</string>
+    <string name="search">Search</string>
+    <string name="newPost">New post</string>
+    <string name="myPosts">My posts</string>
+    <string name="gotopost">Go to post</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="postid">Post id:</string>
+    <string name="postUrl">Url:</string>
+</resources>
