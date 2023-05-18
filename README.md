@@ -7,3 +7,4 @@ The application is designed to facilitate the sharing of the user's location wit
 - GraphAPI
 - Picasso
 - JSON
+- Google Play location services
